@@ -29,6 +29,11 @@ namespace P13Konstruktory
         // teraz mogę osobę utworzyć na 2 sposoby
 
 
+        //public void PrzedstawSie()
+        //{
+        //    Console.WriteLine("Nazywam sie "+ Imie + " " +Nazwisko);
+        //}
+
         public string PrzedstawSie()
         {
             return "Nazyawm sie " + Imie + " " + Nazwisko;
