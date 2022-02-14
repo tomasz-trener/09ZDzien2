@@ -1,0 +1,12 @@
+﻿ //https://github.com/tomasz-trener/09ZDzien1
+//https://github.com/tomasz-trener/09ZDzien2  <---
+ //https://github.com/tomasz-trener/09ZDzien3
+
+ //http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
+
+ Zadanie:
+
+ Proszę wczytaj korzystajac z klasy WebClient plik zawodnicy.txt
+
+ i przetransformuj dane do tablicy tablic
+
