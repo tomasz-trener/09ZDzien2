@@ -29,6 +29,10 @@ namespace P08ListyList
             lista2[1].Add("adam");
             lista2[1].Add("ala");
 
+            //https://github.com/tomasz-trener/09ZDzien1
+            //https://github.com/tomasz-trener/09ZDzien2  <---
+            //https://github.com/tomasz-trener/09ZDzien3
+
             //http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt
 
 
